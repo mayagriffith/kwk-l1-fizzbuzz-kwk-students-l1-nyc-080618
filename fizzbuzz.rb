@@ -7,3 +7,6 @@ elsif number%5 == 0
   return "Buzz"
   end
 end
+fizzbuzz(9)
+fizzbuzz(15)
+fizzbuzz(1000)
